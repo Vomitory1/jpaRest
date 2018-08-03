@@ -9,3 +9,4 @@ import com.example.easynotes.model.Note;
 public interface NoteRepository extends JpaRepository<Note, Long> {
 
 }
+
